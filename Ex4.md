@@ -1,6 +1,6 @@
 ## Ex.No:4
 ## Ex.Name: Check whether a Graph is Bipartite
-## Date:
+## Date: 3/11/25
 ## Aim:
 To write a C++ function to check whether a given graph is Bipartite or not.
 
